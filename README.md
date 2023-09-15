@@ -1,35 +1,24 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+# Upload.ai
 
-## 💻 Projeto
+## 💻 project
+This is a project that uses the OpenAi API to bring descriptions and titles to videos. The application works based on a video that must be sent, the program will convert it into audio so that there can then be a transcription. From this transcription, OpenaAi's artificial intelligence will generate the description and/or title for the video. 
 
-Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
+The following technologies were used:
 
-## 📝 Licença
+### Front
+- typescript
+- Tailwind
+- React
+- Vite
+- FFMPEG
+- shadcn/ui
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+### Back 
+- Prisma
+- Node.js
+- Fastify
+- Zod
+- OpenaAi
+- Axios 
 
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
