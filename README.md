@@ -1,4 +1,3 @@
-
 # Upload.ai
 
 ## 💻 project
@@ -20,5 +19,5 @@ The following technologies were used:
 - Fastify
 - Zod
 - OpenaAi
-- Axios 
+- Axios
 
